@@ -27,8 +27,6 @@ Simple online shopping cart web application to manage a shopping cart for users.
 - [Project folder structure and Frameworks, Libraries](#project-folder-structure-and-frameworks-libraries)
   - [Project folder structure](#project-folder-structure)
   - [Frameworks and Libraries](#frameworks-and-libraries)
-- [Version](#version)
-- [License](#license)
 - [References](#references)
 - [Contact Details](#contact-details)
 
